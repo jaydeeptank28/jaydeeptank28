@@ -1,14 +1,18 @@
 # 💫 About Me:
-- 👨‍💻 Backend Developer with experience working on live production systems<br>
-- 🔗 Building and maintaining REST APIs for real-world applications<br>
-- 🗄️ Designing and managing databases for backend services<br>
-- ☁️ Uploading and managing files/documents using AWS S3<br>
-- 🐧 Deploying and maintaining applications on Linux servers<br>
-- 🤝 Working closely with frontend developers for smooth API integration<br>
-- 🧠 Handling backend logic across multiple domains<br>
-- 🛠️ Debugging issues and maintaining existing systems<br>
-- 🤖 Using AI tools to speed up development while fully understanding the code<br>
+Hi, I'm Jaydeep Tank 👋
+Full Stack DEveloper with 1.5+ years of experience building production SaaS applications.
 
+🔹 Node.js
+🔹 Express.js
+🔹 PostgreSQL
+🔹 React.js
+🔹 REST APIs
+🔹 Workflow Automation
+🔹 CRM Systems
+🔹 AWS S3
+🔹 Linux Deployment
+
+Currently building scalable CRM platforms with workflow automation, communication systems, and third-party integrations.
 
 # 💻 Tech Stack & Tools:
 
