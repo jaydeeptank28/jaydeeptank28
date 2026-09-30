@@ -1,56 +1,68 @@
-# 💫 About Me:
-Hi, I'm Jaydeep Tank 👋
-Full Stack DEveloper with 1.5+ years of experience building production SaaS applications.
+<div align="center">
+  <img src="banner.svg" alt="Jaydeep Tank, Full Stack Developer" width="100%">
+</div>
 
-🔹 Node.js
-🔹 Express.js
-🔹 PostgreSQL
-🔹 React.js
-🔹 REST APIs
-🔹 Workflow Automation
-🔹 CRM Systems
-🔹 AWS S3
-🔹 Linux Deployment
+<br>
 
-Currently building scalable CRM platforms with workflow automation, communication systems, and third-party integrations.
+<h2>About</h2>
 
-# 💻 Tech Stack & Tools:
+<p>
+  I'm a full stack developer with 1.5+ years of experience building production web applications.
+  I work across the whole stack: React on the front end, Node.js and Express APIs behind it,
+  PostgreSQL for data, and Linux for deployment.
+</p>
 
-<!-- ================= CORE LANGUAGE & BACKEND ================= -->
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)
-[![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3/)
-[![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+<h2>What I build</h2>
 
+<ul>
+  <li><b>CRM and business modules</b> – leads, tasks, attendance, leaves, expenses, with role-based access control</li>
+  <li><b>Workflow automation</b> – triggers, conditions, recurring tasks, scheduling, reminders and notifications</li>
+  <li><b>Communication tools</b> – email, SMS, WhatsApp, RCS and AI-powered calling, with campaigns and follow-ups</li>
+  <li><b>Integrations</b> – Google Calendar, AWS S3, e-signature providers, IMAP/SMTP and external REST APIs</li>
+  <li><b>Data tools</b> – automated scraping with proxy rotation for lead generation</li>
+  <li><b>Business websites</b> – responsive, SEO-ready sites with analytics and deployment</li>
+</ul>
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydeep-tank)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayeeptank61@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaydeep___tank) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jaydeep2628) 
+<h2>Tech stack</h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaydeeptank28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jaydeeptank28&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeeptank28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap,mui&perline=7" alt="React, Vite, HTML5, CSS3, Tailwind CSS, Bootstrap, MUI">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,nodejs,express,socketio&perline=7" alt="JavaScript, Node.js, Express.js, Socket.io">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=7" alt="PostgreSQL, MongoDB">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud and DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,linux,apache,netlify&perline=7" alt="AWS S3, Linux, Apache, Netlify">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,npm&perline=7" alt="Git, GitHub, Postman, npm">
+    </td>
+  </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=jaydeeptank28&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>Connect</h2>
+
+<p>
+  <a href="mailto:jaydeeptank61@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/jaydeep-tank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/jaydeeptank28"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/Jaydeep2628"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
