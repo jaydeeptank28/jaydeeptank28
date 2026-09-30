@@ -47,7 +47,7 @@
   <tr>
     <td><b>Cloud and DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,linux,apache,netlify&perline=7" alt="AWS S3, Linux, Apache, Netlify">
+      <img src="https://skillicons.dev/icons?i=aws,linux,netlify&perline=7" alt="AWS S3, Linux, Apache, Netlify">
     </td>
   </tr>
   <tr>
